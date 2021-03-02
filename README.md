@@ -1,2 +1,2 @@
 # Suit-Osom
-Suit/Gunting-Batu-Kertas
+*Gunting-Batu-Kertas*
