@@ -30,33 +30,27 @@ while True:
     # print("<==>")
 
     if lawan  == str.upper(kamu):
-        print("Serrri Borr")
+        print("Serii :b")
     # Gunting
-    elif kamu == "G" and lawan == "G":
-        print("Seri")
     elif lawan == pilihan[0] and kamu == "B":
-        print("Kamu Menang")
+        print("Kamu Menang :)")
     elif lawan == pilihan[0] and kamu == "K":
-        print("Kamu Kalah")
+        print("Kamu Kalah :(")
 
     # Batu
-    elif kamu == "B" and lawan == "B":
-        print("Seri")
     elif lawan == pilihan[1] and kamu == "G":
-        print("Kamu Kalah")
+        print("Kamu Menang :)")
     elif lawan == pilihan[1] and kamu == "K":
-        print("Kamu Menang")
+        print("Kamu Kalah :(")
 
     # Kertas
-    elif kamu == "K" and lawan == "K":
-        print("Seri")
     elif lawan == pilihan[2] and kamu == "G":
-        print("Kamu Menang")
+        print("Kamu Kalah :(")
     elif lawan == pilihan[2] and kamu == "B":
-        print("Kamu Kalah")
+        print("Kamu Menang :)")
     
     else:
-        print("Kamu Menang")
+        print("Kamu Menang :v")
 
     time.sleep(2)
     os.system("cls" if os.name == "nt" else "clear")  
