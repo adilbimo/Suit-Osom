@@ -39,9 +39,9 @@ while True:
 
     # Batu
     elif lawan == pilihan[1] and kamu == "G":
-        print("Kamu Menang :)")
+        print("Kamu Kalah :)")
     elif lawan == pilihan[1] and kamu == "K":
-        print("Kamu Kalah :(")
+        print("Kamu Menang :(")
 
     # Kertas
     elif lawan == pilihan[2] and kamu == "G":
