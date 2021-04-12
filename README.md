@@ -1,2 +1,3 @@
-# Suit-Osom
+# Suit
+# Python
 *Gunting-Batu-Kertas*
